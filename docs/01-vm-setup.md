@@ -22,6 +22,7 @@ In this step, I installed and configured Kali Linux and Ubuntu VMs using Virtual
 - HDD: `30GB`
 - Processors: `2`
 - Network: `Bridged Adapter`
+  ![Image](https://github.com/user-attachments/assets/351d9950-d533-4901-9c75-ef93526a0e53)
   
 ## 🟠 Created Linux Ubuntu Server VM
 - ISO downloaded from: https://ubuntu.com/download/server
