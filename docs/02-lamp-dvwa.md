@@ -1,2 +1,2 @@
-#LAMP stack and DVWA setup
+LAMP stack and DVWA setup
 
