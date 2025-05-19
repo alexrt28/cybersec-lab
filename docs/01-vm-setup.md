@@ -1,5 +1,5 @@
 # VM Setup
-In this step, I installed and configured Kali Linux and Ubuntu VMs using VirtualBox. I installed:
+In this step, I installed and configured Kali Linux and Ubuntu VMs using VirtualBox.
 
 - 🐉 Kali Linux (attacker machine)
 - 🟠 Ubuntu Server (web server for DVWA and WAF)
