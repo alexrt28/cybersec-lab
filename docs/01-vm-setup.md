@@ -25,7 +25,7 @@ In this step, I installed and configured Kali Linux and Ubuntu VMs using Virtual
 
 ## 🟠 Created Linux Ubuntu Server VM
 - ISO downloaded from: https://ubuntu.com/download/server
-- Name: Name: `Linux Ubuntu1`
+- Name: `Linux Ubuntu1`
 - Type: `Linux`
 - Version: `Ubuntu (64-bit)`
 - RAM: `4.4GB`
