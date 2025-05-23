@@ -103,8 +103,7 @@ http://<your-ubuntu-ip>:8080/DVWA/setup.php
 ```
 Login to DVWA using default username and password.
 ```
-![Image](https://github.com/user-attachments/assets/ee6a82ac-b3b9-403b-8e5a-3707e7a258a6)
-
+![Image](https://github.com/user-attachments/assets/a2a6772d-a826-49f5-9d39-e351dd240f5a)
 
 
 
